@@ -1,0 +1,17 @@
+{
+  "name": "strangeCase",
+  "version": "1.0.0",
+  "description": "transforms a given string by some strange casing rules (which are essentially random)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "casing",
+    "strange",
+    "uppercase",
+    "lowercase"
+  ],
+  "author": "Manuel Ernst <seriousstuff@gmx.de>",
+  "license": "MIT"
+}
