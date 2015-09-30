@@ -2,7 +2,7 @@
 
 Formats a given strings casing probabilistic by a given weight:
 
-````
+````javascript
 var sc = require('strangecase')
 
 console.log(sc('strangecase')) //yields 'sTraNGECaSe'
