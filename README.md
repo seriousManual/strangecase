@@ -1,4 +1,4 @@
-# sTraNGECaSe
+# sTraNGECaSe [![Build Status](https://travis-ci.org/seriousManual/strangecase.png)](https://travis-ci.org/seriousManual/strangecase)
 
 Formats a given strings casing probabilistic by a given weight:
 
