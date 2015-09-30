@@ -1,7 +1,7 @@
 {
   "name": "strangeCase",
   "version": "1.0.1",
-  "description": "transforms a given string by some strange casing rules (which are essentially random)",
+  "description": "formats a given strings casing probabilistic by a given weight",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha tests"
