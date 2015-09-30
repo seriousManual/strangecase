@@ -1,6 +1,6 @@
 {
   "name": "strangecase",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "formats a given strings casing probabilistic by a given weight",
   "main": "index.js",
   "scripts": {
