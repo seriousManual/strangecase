@@ -22,8 +22,8 @@ describe('strangecase', function() {
         var a = analyze(sc('foobar foobar foobar'));
 
         it('should case with weight 0.5', function() {
-            expect(a[0]).to.be.within(7, 14)
-            expect(a[1]).to.be.within(7, 14)
+            expect(a[0]).to.be.within(6, 15)
+            expect(a[1]).to.be.within(6, 15)
         })
     })
 
