@@ -1,6 +1,6 @@
 # sTraNGECaSe [![Build Status](https://travis-ci.org/seriousManual/strangecase.png)](https://travis-ci.org/seriousManual/strangecase)
 
-Formats a given strings casing probabilistic by a given weight:
+Formats a given string's casing probabilistic by a given weight:
 
 ````javascript
 var sc = require('strangecase')
